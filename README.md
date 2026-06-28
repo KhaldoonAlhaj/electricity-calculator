@@ -1,5 +1,7 @@
 # Electricity Calculator
 
+[![Latest Release](https://img.shields.io/github/v/release/KhaldoonAlhaj/electricity-calculator)](https://github.com/KhaldoonAlhaj/electricity-calculator/releases)
+
 A Flutter app to track electricity consumption and costs for multiple meters, with tiered pricing for household and flat rates for industrial/commercial. Supports English and Arabic.
 
 ![App Icon](assets/electrical_services_icon.png)
