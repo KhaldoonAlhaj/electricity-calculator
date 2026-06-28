@@ -4,7 +4,7 @@
 
 A Flutter app to track electricity consumption and costs for multiple meters, with tiered pricing for household and flat rates for industrial/commercial. Supports English and Arabic.
 
-![App Icon](assets/electrical_services_icon.png)
+![App Icon](assets/electrical_services_icon_256.png)
 
 ## Features
 
